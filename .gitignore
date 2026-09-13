@@ -1,0 +1,15 @@
+# Output directory
+output/
+*.flac
+*.ogg
+*.mp3
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
